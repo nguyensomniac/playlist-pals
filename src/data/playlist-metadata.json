@@ -1,0 +1,272 @@
+{
+  "harry": {
+    "name": "harry",
+    "humanName": "Harry",
+    "handle": "harryb",
+    "vibe": {
+      "futurism": 2,
+      "outwardness": 4,
+      "mood": 8,
+      "variety": 4,
+      "tempo": 5
+    },
+    "description": "Summer jams",
+    "vibe": "This playlist makes me want to rent a camper van and drive up the Pacific Coast Highway. Too bad I get cold so easily!",
+    "genres": ["indie", "hip-hop"]
+  },
+  "wesley": {
+    "name": "wesley",
+    "humanName": "Wesley",
+    "handle": "wesleysamples",
+    "vibe": {
+      "futurism": 7,
+      "outwardness": 3,
+      "mood": 4,
+      "variety": 5,
+      "tempo": 2
+    },
+    "description": "Playlist aesthetics",
+    "vibe": "Wesley runs a digital studio, so I knew he'd appreciate this playlist full of album art I like. It tends towards the moody, introspective side of things, as many creative types are.",
+    "genres": ["electronic", "indie", "downtempo"]
+  },
+  "kellie": {
+    "name": "kellie",
+    "humanName": "Kellie",
+    "handle": "dinhkellie",
+    "vibe": {
+      "futurism": 5,
+      "outwardness": 7,
+      "mood": 10,
+      "variety": 8,
+      "tempo": 7
+    },
+    "description": "Paris by Night",
+    "vibe": "Paris by Night, but ([not this one](https://en.wikipedia.org/wiki/Paris_by_Night)). Starts out with music you'd listen to over a candlelit dinner, but when in Paris you have to go dancing afterwards!",
+    "genres": ["dance", "hip-hop"]
+  },
+  "jess": {
+    "name": "jess",
+    "humanName": "Jess",
+    "handle": "j_yuj_jes",
+    "vibe": {
+      "futurism": 8,
+      "outwardness": 0,
+      "mood": 2,
+      "variety": 4,
+      "tempo": 3
+    },
+    "description": "1 user has chosen not to be in this view",
+    "vibe": "🌚",
+    "genres": ["antisocial", "electronic", "pop"]
+  },
+  "zara": {
+    "name": "zara",
+    "humanName": "Zara",
+    "handle": "firelordzara",
+    "vibe": {
+      "futurism": 0,
+      "outwardness": 6,
+      "mood": 8,
+      "variety": 8,
+      "tempo": 7
+    },
+    "description": "Boybands, girl groups, and posse cuts.",
+    "vibe": "I don't actually know how much Zara likes hip-hop and the first half reads somewhat like an introduction to the genre. Korea is cranking out some of the most interesting pop in the world, however.",
+    "genres": ["k-pop", "hip-hop", "rnb"]
+  },
+  "michelle-li": {
+    "name": "michelle-li",
+    "humanName": "Michelle Li",
+    "handle": "michelle_ebooks",
+    "vibe": {
+      "futurism": 9,
+      "outwardness": 2,
+      "mood": 3,
+      "variety": 6,
+      "tempo": 4
+    },
+    "description": "Teen angst of the social media variety",
+    "description": "The soundtrack of a low-budget documentary about the Internet someday.",
+    "genres": ["emo hip-hop", "instrumental"]
+  },
+  "will": {
+    "name": "will",
+    "humanName": "Will",
+    "handle": "404_sunshine",
+    "vibe": {
+      "futurism": 0,
+      "outwardness": 10,
+      "mood": 9,
+      "variety": 1,
+      "tempo": 8
+    },
+    "description": "California rap",
+    "vibe": "https://en.wikipedia.org/wiki/Hyphy",
+    "genres": ["rap", "california", "hyphy"]
+  },
+  "karen": {
+    "name": "karen",
+    "humanName": "Karen",
+    "handle": "hipcaucasian",
+    "vibe": {
+      "futurism": 5,
+      "outwardness": 8,
+      "mood": 8,
+      "variety": 8,
+      "tempo": 7
+    },
+    "description": "Meme music that slaps",
+    "vibe": "Karen went viral this year. This is her company.\n You should know most of these, but while you're here check out the [Thomas the Tank Engine remix of My Neck, My Back](https://www.youtube.com/watch?v=tmmCW8Cz7mE), It's the best song on the Internet by far.",
+    "genres": ["meme", "hip-hop", "pop"]
+  },
+  "rosa": {
+    "name": "rosa",
+    "humanName": "Rosa",
+    "handle": "rosaguac",
+    "vibe": {
+      "futurism": 5,
+      "outwardness": 2,
+      "mood": 1,
+      "variety": 4,
+      "tempo": 7
+    },
+    "description": "Crying in the club",
+    "vibe": "Rosa's such an upbeat person! I can't imagine her crying, but if she is, she's probably dancing while doing it.",
+    "genres": ["synthpop", "sad"]
+  },
+  "kat": {
+    "name": "kat",
+    "humanName": "Kat",
+    "handle": "lh0mmerun",
+    "vibe": {
+      "futurism": 3,
+      "outwardness": 2,
+      "mood": 8,
+      "variety": 7,
+      "tempo": 4
+    },
+    "description": "Music for tea time",
+    "vibe": "Kat and I met Jay Som at her last show in Oakland! One day I'll have both of them over for tea and have this playing in the background.",
+    "genres": ["indie", "chill", "rnb"]
+  },
+  "josh": {
+    "name": "josh",
+    "humanName": "Josh",
+    "handle": "joshua_bote",
+    "vibe": {
+      "futurism": 5,
+      "outwardness": 6,
+      "mood": 8,
+      "variety": 7,
+      "tempo": 4
+    },
+    "description": "Underrated pop jams",
+    "vibe": "Josh [writes about music for a living](https://www.npr.org/sections/allsongs/2018/04/20/604353432/ariana-grandes-no-tears-left-to-cry-pushes-past-grief) and has introduced me to much more music than vice versa. What do you give to impress the man? It's impossible.",
+    "genres": ["pop", "indie", "throwbacks"]
+  },
+  "jesse": {
+    "name": "jesse",
+    "humanName": "Jesse",
+    "handle": "jp_interfaces",
+    "vibe": {
+      "futurism": 5,
+      "outwardness": 4,
+      "mood": 5,
+      "variety": 6,
+      "tempo": 5
+    },
+    "description": "My favorite 2018 tunes by artists of color",
+    "vibe": "Sounds like Pitchfork, honestly. What can I say? Mitski made me cry live and I'm so happy that she's everyone's AOTY.",
+    "genres": ["indie", "best of 2018", "POC"]
+  },
+  "risha": {
+    "name": "risha",
+    "humanName": "Risha",
+    "handle": "cybergoth404",
+    "vibe": {
+      "futurism": 7,
+      "outwardness": 6,
+      "mood": 10,
+      "variety": 8,
+      "tempo": 8
+    },
+    "description": "Songs that make me feel like a badass",
+    "vibe": "This one goes hard. Genre-wise there’s a lot of variety, from punk to pop to hip-hop, but it maintains the same level of energy throughout.",
+    "genres": ["hip-hop", "punk", "pop"]
+  },
+  "father-john-mitski": {
+    "name": "father-john-mitski",
+    "humanName": "Father John Mitski",
+    "handle": "aswangakira",
+    "vibe": {
+      "futurism": 3,
+      "outwardness": 2,
+      "mood": 2,
+      "variety": 1,
+      "tempo": 4
+    },
+    "description": "For the indie fuckboy",
+    "vibe": "What do you think of when you hear the words, 'Father John Mitski'? To me it's a generic shitty Tinder ex looking for a manic pixie dream girl. He'll make you a playlist with all these songs you haven't heard before...",
+    "genres": ["fake indie", "rock", "lamestream"]
+  },
+  "stephen": {
+    "name": "stephen",
+    "humanName": "Stephen",
+    "handle": "songofstephen",
+    "vibe": {
+      "futurism": 2,
+      "outwardness": 8,
+      "mood": 6,
+      "variety": 4,
+      "tempo": 4
+    },
+    "description": "Nostalgia, ultra",
+    "vibe": "Stephen's about to move to Detroit to embark on a new journey. I wanted to give him a soundtrack to reflect on his time in the Bay. The first part of the playlist is mostly songs that have significance to our friendship—he introduced me to Mitski the first time we met. The second half are songs I think that he should know.",
+    "genres": ["indie pop", "cowboy"]
+  },
+  "nikhil": {
+    "name": "nikhil",
+    "humanName": "Nikhil",
+    "handle": "nikhilrsethi",
+    "vibe": {
+      "futurism": 6,
+      "outwardness": 0,
+      "mood": 0,
+      "variety": 3,
+      "tempo": 2
+    },
+    "description": "INFP tunes",
+    "vibe": "INFP stands for Introverted/iNtuitive/Feeling/Perceiving; it's one of the 16 Meyers-Briggs personality types. INFPs tend to be moody and introspective, to the point of overthinking things. Nikhil and I both share the personality type and joke about it.",
+    "genres": ["sad", "downtempo", "indie", "instrumental"]
+  },
+  "carrie": {
+    "name": "carrie",
+    "humanName": "Carrie",
+    "handle": "carrieaoke",
+    "vibe": {
+      "futurism": 7,
+      "outwardness": 5,
+      "mood": 8,
+      "variety": 4,
+      "tempo": 4
+    },
+    "description": "Good music with crazy music videos",
+    "vibe": "It's like your stereotypical adult contemporary radio station, but fucking weird. Look up the music videos for these.",
+    "genres": ["pop", "soft rock", "chill"]
+  },
+  "kobe": {
+    "name": "kobe",
+    "humanName": "Kobe",
+    "handle": "kobexamoh",
+    "vibe": {
+      "futurism": 5,
+      "outwardness": 1,
+      "mood": 2,
+      "variety": 6,
+      "tempo": 8
+    },
+    "description": "Heavy instrumentals",
+    "vibe": "A starter pack for how to code/clean/study whilst emo.",
+    "genres": ["post-rock", "electronic", "instrumental"]
+  }
+}

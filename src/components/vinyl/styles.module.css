@@ -1,0 +1,35 @@
+@keyframes rotate {
+  from {transform: rotate(0deg);}
+  to {transform: rotate(359deg);}
+}
+
+.spin {
+  --palette-1: #EAF0F0;
+  --palette-2: #EAF0F0;
+  --palette-3: #EAF0F0;
+  --palette-4: #EAF0F0;
+  display: inline-block;
+  width: 224px;
+  height: 224px;
+  border-radius: 100%;
+  background:
+    radial-gradient(circle 8px, #E2E2E2 99%, transparent 0),
+    url('./shine.svg') top no-repeat,
+    radial-gradient(circle 49px, #302727 99%, transparent 0),
+    linear-gradient(var(--palette-1), var(--palette-2)),
+    linear-gradient(#EAF0F0, #EAF0F0);
+  background-blend-mode: normal, color-dodge, normal, hard-light;
+  box-shadow: 0 4px 11px 0 rgba(35, 48, 48, 0.16);
+  animation: rotate 20s linear infinite;
+}
+
+@supports (background: conic-gradient(white, white)) {
+  .spin {
+    background:
+      radial-gradient(circle 8px, #E2E2E2 99%, transparent 0),
+      url('./shine.svg') top no-repeat,
+      radial-gradient(circle 49px, #302727 99%, transparent 0),
+      conic-gradient(var(--palette-1), var(--palette-2), var(--palette-3), var(--palette-4), var(--palette-1)),
+      linear-gradient(#EAF0F0, #EAF0F0);
+  }
+}

@@ -1,0 +1,7 @@
+.albumCover {
+  grid-column: span 4;
+}
+
+.description {
+  grid-column: span 4;
+}
