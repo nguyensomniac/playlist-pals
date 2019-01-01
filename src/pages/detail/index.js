@@ -17,7 +17,7 @@ class DetailPage extends React.Component {
         <div className={styles.albumCover}>
           <Vinyl colors={vinylColors} />
         </div>
-        <div>
+        <div className={styles.description}>
           {name}
         </div>
       </Grid>
